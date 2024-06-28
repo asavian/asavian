@@ -4,7 +4,7 @@
 - 🌱 IA Generativa
 - 💼 Analista de Engenharia
 - 🎓 Gestão de Pessoas
-- 🌐 Me encontre em: ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)[LinkedIn](https://www.linkedin.com/in/allan-savian/)
+- 🌐 Me encontre em: ![LinkedIn](https://www.linkedin.com/in/allan-savian/)
 
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
